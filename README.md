@@ -4,6 +4,8 @@ This application is a fun and simple challenge form frontendmentor.
 
 This web site for education purposes
 
+https://easyera.github.io/challenge2/
+
 # author:
 
 Eniyavan
